@@ -11,6 +11,7 @@ A full-stack software engineer focused on building scalable, maintainable, and h
 ![Tailwind](https://img.shields.io/badge/Library-Tailwind-informational?style=flat&logo=tailwindcss&color=00bcff)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=ffd343)
 ![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&color=00ccb8)
+![HTML](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&color=#DD4B25)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
 Currently, I'm actively exploring and researching AI - looking for practical ways to integrate intelligent systems into modern web applications and products.
